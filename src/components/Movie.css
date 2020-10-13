@@ -1,0 +1,7 @@
+.Movie {
+  display: flex;
+  padding: 1rem;
+}
+.Movie img {
+  max-width: 20rem;
+}
