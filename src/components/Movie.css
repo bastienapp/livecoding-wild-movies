@@ -5,3 +5,11 @@
 .Movie img {
   max-width: 20rem;
 }
+
+.Movie h3 {
+  color: red;
+}
+
+.Movie h3.released {
+  color: green;
+}
